@@ -1,0 +1,303 @@
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 49 ms
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:05:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 1 ms
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 12 ms
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:06:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 0 ms
+2024-06-26 17:07:11 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:07:11 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:07:11 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:07:11 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 15 ms
+2024-06-26 17:07:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:07:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:07:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:07:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 13 ms
+2024-06-26 17:08:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:08:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:08:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:08:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 16 ms
+2024-06-26 17:08:21 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:08:21 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:08:21 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:08:21 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 13 ms
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 14 ms
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:09:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 0 ms
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 13 ms
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:11:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 1 ms
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 17 ms
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:11:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 0 ms
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 14 ms
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:11:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 0 ms
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 14 ms
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:11:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 1 ms
+2024-06-26 17:12:23 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:12:23 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 13 ms
+2024-06-26 17:12:26 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:12:26 [main] INFO  com.dilizity.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 353 ms
+2024-06-26 17:12:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (abcd)
+2024-06-26 17:12:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:12:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:12:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 14 ms
+2024-06-26 17:12:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:12:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:12:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:12:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 161 ms
+2024-06-26 17:13:12 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:13:12 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:13:12 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:13:12 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 10 ms
+2024-06-26 17:13:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:13:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:13:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:13:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 158 ms
+2024-06-26 17:13:22 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:13:22 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:13:22 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:13:22 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 12 ms
+2024-06-26 17:13:34 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:13:34 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:13:34 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:13:34 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 172 ms
+2024-06-26 17:13:39 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:13:47 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:13:47 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:14:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 20812 ms
+2024-06-26 17:14:04 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:14:04 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:14:04 [main] INFO  com.dilizity.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:14:04 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 166 ms
+2024-06-26 17:14:07 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:14:26 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:14:26 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:14:26 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 19412 ms
+2024-06-26 17:15:32 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:15:32 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:15:32 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:15:32 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 178 ms
+2024-06-26 17:15:45 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:15:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:15:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:16:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 33577 ms
+2024-06-26 17:17:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:17:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:17:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:17:10 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 177 ms
+2024-06-26 17:22:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:22:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 7 ms
+2024-06-26 17:22:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:22:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 161 ms
+2024-06-26 17:23:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:23:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:23:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:23:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 156 ms
+2024-06-26 17:23:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:23:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:23:22 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:24:11 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 49139 ms
+2024-06-26 17:25:16 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:25:16 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:25:19 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:25:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 22135 ms
+2024-06-26 17:26:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:26:06 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:26:06 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:26:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 10114 ms
+2024-06-26 17:32:30 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:32:30 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:32:30 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:32:34 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 4214 ms
+2024-06-26 17:32:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:32:46 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:32:46 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:33:02 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 20491 ms
+2024-06-26 17:33:09 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:34:28 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 79237 ms
+2024-06-26 17:37:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:37:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:37:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:37:42 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 155 ms
+2024-06-26 17:37:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:37:54 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:37:54 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:38:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 12511 ms
+2024-06-26 17:38:07 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:39:45 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 97596 ms
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 166 ms
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 17:39:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 7 ms
+2024-06-26 17:39:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:40:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 62292 ms
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 168 ms
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:48:00 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 6 ms
+2024-06-26 17:48:06 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:48:42 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 35676 ms
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 163 ms
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:48:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 6 ms
+2024-06-26 17:48:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 157 ms
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:49:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 6 ms
+2024-06-26 17:49:04 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:49:56 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 52388 ms
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 144 ms
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 5 ms
+2024-06-26 17:50:15 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 17:50:16 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 1051 ms
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 163 ms
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 9 ms
+2024-06-26 18:00:58 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:01:05 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 6755 ms
+2024-06-26 18:01:10 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:01:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 9877 ms
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 160 ms
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 6 ms
+2024-06-26 18:01:35 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:01:40 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 4809 ms
+2024-06-26 18:01:46 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:01:59 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 13462 ms
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 5 ms
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 160 ms
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:04:20 [main] INFO  com.dilizity.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 7 ms
+2024-06-26 18:04:20 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:04:27 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 7015 ms
+2024-06-26 18:04:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:05:16 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 44887 ms
+2024-06-26 18:07:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:07:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 6 ms
+2024-06-26 18:07:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:07:43 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 161 ms
+2024-06-26 18:07:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:07:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:07:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:07:57 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 8 ms
+2024-06-26 18:07:57 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:08:01 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:08:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 18:08:03 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:10:12 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 128209 ms
+2024-06-26 18:10:33 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:10:33 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:10:33 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 1 ms
+2024-06-26 18:10:33 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 9 ms
+2024-06-26 18:10:33 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:10:37 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:10:37 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 18:10:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:10:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 348 ms
+2024-06-26 18:10:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:10:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:10:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:10:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 10 ms
+2024-06-26 18:10:53 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:11:08 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 15085 ms
+2024-06-26 18:11:12 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:19:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 522888 ms
+2024-06-26 18:39:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:39:38 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 9 ms
+2024-06-26 18:39:44 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:39:45 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 387 ms
+2024-06-26 18:39:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:39:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:39:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:39:55 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 9 ms
+2024-06-26 18:39:56 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:40:21 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 24830 ms
+2024-06-26 18:40:24 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:41:09 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 45330 ms
+2024-06-26 18:41:27 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:41:27 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 4 ms
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 167 ms
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - Begin (Security)
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 0 ms
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.<init> - End - Execution Time: 7 ms
+2024-06-26 18:41:31 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:41:41 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 9519 ms
+2024-06-26 18:41:42 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - Begin ()
+2024-06-26 18:42:01 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.DynamicDataLayer.ExecuteUsingKey - End - Execution Time: 18902 ms

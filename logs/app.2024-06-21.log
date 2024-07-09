@@ -1,0 +1,4 @@
+2024-06-21 19:35:36 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->getInstance started.
+2024-06-21 19:35:36 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->getInstance End.
+2024-06-21 19:35:36 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-21 19:35:36 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.

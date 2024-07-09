@@ -1,0 +1,29 @@
+2024-06-22 16:16:47 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-22 16:16:48 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.
+2024-06-22 16:25:33 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-22 16:25:34 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.
+2024-06-22 16:26:05 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-22 16:26:05 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.
+2024-06-22 16:28:42 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-22 16:28:42 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.
+2024-06-22 16:31:09 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load Started.
+2024-06-22 16:31:09 [main] INFO  com.core.dynamicDAL.MetaQueryManager - MetaQueryManager->Load End.
+2024-06-22 16:36:01 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:36:01 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:36:01 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:36:02 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:37:18 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:37:18 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:37:18 [main] INFO  com.dilizity.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:37:18 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:37:37 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:37:37 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:37:37 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:37:37 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:39:00 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:39:16 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - End - Execution Time: {2} ms
+2024-06-22 16:39:16 [main] INFO  com.core.util.FnTraceWrap - {0}.{1} - Begin ({2})
+2024-06-22 16:42:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - Begin ()
+2024-06-22 16:42:48 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.getInstance - End - Execution Time: 9 ms
+2024-06-22 16:42:50 [main] INFO  com.core.util.FnTraceWrap - com.dilizity.dynamicDAL.MetaQueryManager.Load - Begin ()
+2024-06-22 16:42:50 [main] INFO  com.core.util.FnTraceWrap - com.core.dynamicDAL.MetaQueryManager.Load - End - Execution Time: 152 ms

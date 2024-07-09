@@ -1,0 +1,360 @@
+{
+  "root": {
+    "Schema": [
+      {
+        "Name": "Security",
+        "DataSource": "jdbc:sqlserver://AS-CRM-ASIFF:1433;databaseName=MCB_UNISON_ACE;user=sa;password=Avanza123;encrypt=true;trustServerCertificate=true",
+        "Provider": "System.Data.SqlClient",
+        "Query": [
+          {
+            "ID": "GetAllComplaints",
+            "SQL": "SELECT COMP_TICKET_NUM, CURRENT_STATE FROM COMPLAINT"
+          },
+          {
+            "ID": "GetSpecificComplaint",
+            "SQL": "SELECT COMP_TICKET_NUM, CURRENT_STATE FROM COMPLAINT WHERE COMP_TICKET_NUM = ? AND CURRENT_STATE = ?",
+            "Param": [
+              {
+              "Order": "1",
+              "Name": "CompTicketNum",
+              "Type": "String",
+              "Size": "20"
+              },
+              {
+              "Order": "2",
+              "Name": "CurrentStatus",
+              "Type": "String",
+              "Size": "5"
+            }
+            ]
+          },
+          {
+            "ID": "GetComplaintFiltersbyDate",
+            "SQL": "SELECT COMP_TICKET_NUM, CURRENT_STATE FROM COMPLAINT WHERE CREATED_ON >= ? AND CREATED_ON < ?",
+            "Param": [
+              {
+                "Order": "1",
+                "Name": "FromDate",
+                "Type": "DateTime",
+                "Size": ""
+              },
+              {
+                "Order": "2",
+                "Name": "ToDate",
+                "Type": "DateTime",
+                "Size": ""
+              }
+            ]
+          },
+          {
+            "ID": "GetComplaintFiltersbyBIT",
+            "SQL": "SELECT COMP_TICKET_NUM, PROSPECT_TYPE FROM COMPLAINT WHERE PROSPECT_TYPE >= ?",
+            "Param": [
+              {
+                "Order": "1",
+                "Name": "PropesctType",
+                "Type": "Bit",
+                "Size": ""
+              }
+            ]
+          },
+          {
+            "ID": "DeleteActivityType",
+            "SQL": "DELETE FROM  ACTIVITY_TYPE WHERE ACTIVITY_TYPE_ID = ?",
+            "Param": [
+              {
+                "Order": "1",
+                "Name": "ACTIVITY_TYPE_ID",
+                "Type": "String",
+                "Size": "50"
+              }
+            ]
+          },
+          {
+            "ID": "InsertActivityType",
+            "SQL": "INSERT INTO ACTIVITY_TYPE(ACTIVITY_TYPE_ID,ROOT_NODE,OTHER_CODE,TYPE_NAME_PRM,TYPE_NAME_SEC,TYPE_DESCRIPTION,OP_TYPE,PARENT_NODE,SYSTEM_NAME,IS_EXTERNAL,HIERARCHY_LEVEL,DISPLAY_ORDER,DOC_TYPE_ID,CREATED_ON,CREATED_BY,UPDATED_ON,UPDATED_BY,PARENT_ACTIVITY_1,PARENT_ACTIVITY_2,PARENT_ACTIVITY_3,PARENT_ACTIVITY_4,IS_AUTO_WRAP_UP,IS_ENABLED) VALUES (?, ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?, ? ,?,?,?, ?, ?)",
+            "Param": [
+              {
+                "Order": "1",
+                "Name": "ACTIVITY_TYPE_ID",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "2",
+                "Name": "ROOT_NODE",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "3",
+                "Name": "OTHER_CODE",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "4",
+                "Name": "TYPE_NAME_PRM",
+                "Type": "String",
+                "Size": "100"
+              },
+              {
+                "Order": "5",
+                "Name": "TYPE_NAME_SEC",
+                "Type": "String",
+                "Size": "100"
+              },
+              {
+                "Order": "6",
+                "Name": "TYPE_DESCRIPTION",
+                "Type": "String",
+                "Size": "200"
+              },
+              {
+                "Order": "7",
+                "Name": "OP_TYPE",
+                "Type": "String",
+                "Size": "25"
+              },
+              {
+                "Order": "8",
+                "Name": "PARENT_NODE",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "9",
+                "Name": "SYSTEM_NAME",
+                "Type": "String",
+                "Size": "200"
+              },
+              {
+                "Order": "10",
+                "Name": "IS_EXTERNAL",
+                "Type": "Bit",
+                "Size": ""
+              },
+              {
+                "Order": "11",
+                "Name": "HIERARCHY_LEVEL",
+                "Type": "Int",
+                "Size": "4"
+              },
+              {
+                "Order": "12",
+                "Name": "DISPLAY_ORDER",
+                "Type": "Int",
+                "Size": "4"
+              },
+              {
+                "Order": "13",
+                "Name": "DOC_TYPE_ID",
+                "Type": "String",
+                "Size": "25"
+              },
+              {
+                "Order": "14",
+                "Name": "CREATED_ON",
+                "Type": "DateTime",
+                "Size": ""
+              },
+              {
+                "Order": "15",
+                "Name": "CREATED_BY",
+                "Type": "String",
+                "Size": "30"
+              },
+              {
+                "Order": "16",
+                "Name": "UPDATED_ON",
+                "Type": "DateTime",
+                "Size": ""
+              },
+              {
+                "Order": "17",
+                "Name": "UPDATED_BY",
+                "Type": "String",
+                "Size": "30"
+              },
+              {
+                "Order": "18",
+                "Name": "PARENT_ACTIVITY_1",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "19",
+                "Name": "PARENT_ACTIVITY_2",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "20",
+                "Name": "PARENT_ACTIVITY_3",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "21",
+                "Name": "PARENT_ACTIVITY_4",
+                "Type": "String",
+                "Size": "50"
+              },
+              {
+                "Order": "22",
+                "Name": "IS_AUTO_WRAP_UP",
+                "Type": "Bit",
+                "Size": ""
+              },
+              {
+                "Order": "23",
+                "Name": "IS_ENABLED",
+                "Type": "Bit",
+                "Size": ""
+              }
+            ]
+          },
+          {
+            "ID": "LoadTest",
+            "SQL": "INSERT INTO BATCH_PARENT (BATCH_ID, STATUS, DESCRIPTION) VALUES (?, ?, ?)",
+            "Transaction": "true",
+            "Param": [
+              {
+                "Order": "1",
+                "Name": "BatchId",
+                "Type": "Int",
+                "Size": ""
+              },
+              {
+                "Order": "2",
+                "Name": "Status",
+                "Type": "Int",
+                "Size": ""
+              },
+              {
+                "Order": "3",
+                "Name": "Description",
+                "Type": "String",
+                "Size": "100"
+              }
+            ],
+            "Query": [
+              {
+                "ID": "ComplainBatchProcessStep1",
+                "SQL": "INSERT INTO BATCH_CHILD (BATCH_ID, CHILD_ID, DESCRIPTION) VALUES (?, ?, ?)",
+                "Param": [
+                  {
+                    "Order": "1",
+                    "Name": "BatchId",
+                    "Type": "Int",
+                    "Size": ""
+                  },
+                  {
+                    "Order": "2",
+                    "Name": "ChildId",
+                    "Type": "Int",
+                    "Size": ""
+                  },
+                  {
+                    "Order": "3",
+                    "Name": "Description",
+                    "Type": "String",
+                    "Size": "100"
+                  }
+                ]
+              },
+              {
+                "ID": "ComplainBatchProcessStep2",
+                "SQL": "UPDATE BATCH_PARENT SET STATUS = ? WHERE BATCH_ID = ?",
+                "Param": [
+                  {
+                    "Order": "1",
+                    "Name": "StatusId",
+                    "Type": "Int",
+                    "Size": ""
+                  },
+                  {
+                    "Order": "2",
+                    "Name": "BatchId",
+                    "Type": "Int",
+                    "Size": ""
+                  }
+                ]
+              }
+
+            ]
+          },
+          {
+            "ID": "BatchProcess",
+            "SQL": "INSERT INTO BATCH_PARENT (BATCH_ID, STATUS, DESCRIPTION) VALUES (?, ?, ?)",
+            "Transaction": "true",
+            "Param": [
+                {
+                  "Order": "1",
+                  "Name": "BatchId",
+                  "Type": "Int",
+                  "Size": ""
+                },
+                {
+                  "Order": "2",
+                  "Name": "Status",
+                  "Type": "Int",
+                  "Size": ""
+                },
+                {
+                  "Order": "3",
+                  "Name": "Description",
+                  "Type": "String",
+                  "Size": "100"
+                }
+              ],
+              "Query": [
+                {
+                  "ID": "ComplainBatchProcessStep1",
+                  "SQL": "INSERT INTO BATCH_CHILD (BATCH_ID, CHILD_ID, DESCRIPTION) VALUES (?, ?, ?)",
+                  "Param": [
+                    {
+                      "Order": "1",
+                      "Name": "BatchId",
+                      "Type": "Int",
+                      "Size": ""
+                    },
+                    {
+                      "Order": "2",
+                      "Name": "ChildId",
+                      "Type": "Int",
+                      "Size": ""
+                    },
+                    {
+                      "Order": "3",
+                      "Name": "Description",
+                      "Type": "String",
+                      "Size": "100"
+                    }
+                  ]
+                },
+                {
+                  "ID": "ComplainBatchProcessStep2",
+                  "SQL": "UPDATE BATCH_PARENT SET STATUS = ? WHERE BATCH_ID = ?",
+                  "Param": [
+                    {
+                      "Order": "1",
+                      "Name": "StatusId",
+                      "Type": "Int",
+                      "Size": ""
+                    },
+                    {
+                      "Order": "2",
+                      "Name": "BatchId",
+                      "Type": "Int",
+                      "Size": ""
+                    }
+                  ]
+                }
+              ]
+          }
+        ]
+      }
+    ]
+  }
+}
